@@ -3,7 +3,7 @@ Flask==1.1.2
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 Flask-Cors==3.0.8
 Six==1.15.0
 mongoengine==0.18.2
